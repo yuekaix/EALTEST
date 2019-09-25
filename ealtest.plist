@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eascs.WSDPro</string>
+				<string>com.eascs.eal</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>version 1.0</string>
 				<key>title</key>
-				<string>WSDPro</string>
+				<string>EAL</string>
 			</dict>
 		</dict>
 	</array>
